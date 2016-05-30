@@ -3,4 +3,5 @@ First Git: Hello-world
 
 Deep Random. Like playing tenis, football! Ah hu!
 
-Hello from test_branch!
+This comment from master. 
+Pretending never have hello from test_branch.
